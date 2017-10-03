@@ -1,0 +1,49 @@
+body,html{
+
+    height: 100%;
+    width: 100%;
+}
+
+.carousel {
+
+    height: 500px;
+}
+
+.carousel-inner{
+
+    height: 80%;
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+}
+
+.item{
+    background-size: contain;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+#heading{
+
+    z-index: 100;
+    margin-top: 20px;
+    position: absolute;
+    width: inherit;
+
+}
+
+#carousel-example-generic{
+
+    margin-top: 0px;
+    position: relative;
+}
+
+.col-lg-4{
+    
+    text-align: center;
+
+
+}
+

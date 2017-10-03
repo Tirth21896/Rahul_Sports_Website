@@ -1,0 +1,11 @@
+{
+  "name": "tirth",
+  "version": "1.0.0",
+  "description": "rahulSportWeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "hellow"
+  },
+  "author": "",
+  "license": "ISC"
+}
