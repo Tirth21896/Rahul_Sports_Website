@@ -1,7 +1,9 @@
+
 body,html{
 
     height: 100%;
     width: 100%;
+    font-family: 'Nunito';
 }
 
 .carousel {
@@ -31,6 +33,13 @@ body,html{
     margin-top: 20px;
     position: absolute;
     width: inherit;
+
+}
+
+@font-face{
+
+    font-family: 'Nunito';
+    src:"\Nunito\Nunito-Regular.ttf ";
 
 }
 
