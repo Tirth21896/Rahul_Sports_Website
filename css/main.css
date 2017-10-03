@@ -39,7 +39,7 @@ body,html{
 @font-face{
 
     font-family: 'Nunito';
-    src:"\Nunito\Nunito-Regular.ttf ";
+    src:url(../Nunito/Nunito-Regular.ttf);
 
 }
 
