@@ -51,7 +51,10 @@ body,html{
 .col-lg-4{
     
     text-align: center;
-
-
+   margin-bottom: 20px; 
+}
+p{
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
