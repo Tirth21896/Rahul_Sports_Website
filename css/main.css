@@ -100,3 +100,16 @@ footer{
     margin-right: 110px;
     margin-left: 110px;
 }
+
+#big-big-expert{
+    margin-right: 120px;
+    margin-left: 120px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+#expert{
+    height: 500px;
+    width: 400px;
+
+}
