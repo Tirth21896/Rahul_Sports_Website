@@ -91,7 +91,7 @@ footer{
 
 
 
-/* css for about-us page starts here */
+/* css for About-Us page starts here */
 
 #bigt{
     text-align: center;
@@ -111,5 +111,26 @@ footer{
 #expert{
     height: 500px;
     width: 400px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* css for Contact-Us page starts here */
+
+con-table{
+    padding-right: 200px;
+    padding-right: 200px;
 
 }
