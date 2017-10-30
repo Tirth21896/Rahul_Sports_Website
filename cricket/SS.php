@@ -1,10 +1,14 @@
 <!DOCTYPE html>
+<?php
+    include("general.php");
+    
+?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>PUMA</title>
+    <title>SS</title>
     <script src="./node_modules/jquery/dist/jquery.js"></script>
     <script src="./js/bootstrap/js/bootstrap.js"></script>
     <link rel="stylesheet" href="./js/bootstrap/css/bootstrap.css"> 
@@ -96,13 +100,16 @@
   
       <!-- main body part -->
       <div class="container-fluid" id="bigt">
-        <h1><center>PUMA</center></h1>
+        <h1><center>SS</center></h1>
       </div>
-     <!-- footer starts here -->
-     <footer>
+
+    <!-- footer starts here -->
+    <footer>
       <p class="pull-right"><a href="#">Back to top</a></p>
       <p>© 2017 Rahul Treading Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
     </footer>
     <!-- footer starts here -->
+
+    
 </body>
 </html>

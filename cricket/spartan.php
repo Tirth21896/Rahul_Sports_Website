@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<?php
+    include("general.php");
+    
+?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -96,7 +100,7 @@
   
       <!-- main body part -->
       <div class="container-fluid" id="bigt">
-        <h1><center>KG</center></h1>
+        <h1><center>Spartans</center></h1>
       </div>
      <!-- footer starts here -->
      <footer>
