@@ -20,9 +20,9 @@
         header1();
       ?>
     <!-- header part ends here.. -->
-     <!-- main body parts starts here.. -->
+     <!-- carousel starts here.. -->
       <?php
-        logoHeader1();
+        logoHeader();
       ?>
       <!-- carousel ends here -->
   

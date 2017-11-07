@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <?php
     include("general.php");
-    
 ?>
 <html lang="en">
 <head>
@@ -21,10 +20,9 @@
       ?>
     <!-- header part ends here.. -->
      <!-- main body parts starts here.. -->
-      <?php
-        header1();
-      ?>
-      
+    <?php
+      logoHeader();
+    ?>
     <!-- carousel ends here -->
   
       <!-- main body part -->

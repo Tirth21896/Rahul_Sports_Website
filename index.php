@@ -82,7 +82,7 @@
             <h2>Cricket</h2>
             <p>Text content</p>
             <p>
-              <a href="cricket.html" role="button"> View Detail</a>
+              <a href="cricket.php" role="button"> View Detail</a>
             </p>
 
         </div>
@@ -91,7 +91,7 @@
             <h2>Swimming</h2>
             <p>Text content</p>
             <p>
-              <a href="swimming.html" role="button"> View Detail</a>
+              <a href="swimming.php" role="button"> View Detail</a>
             </p>
     
         </div>
@@ -100,7 +100,7 @@
             <h2>Football</h2>
             <p>Text content</p>
             <p>
-              <a href="football.html" role="button"> View Detail</a>
+              <a href="football.php" role="button"> View Detail</a>
             </p>        
         </div>
       </div>

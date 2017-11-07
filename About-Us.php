@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <?php
-    include("general.php");
-    
+    include("general.php");   
 ?>
 <html lang="en">
     <head>
@@ -20,9 +19,9 @@
         ?>
     <!-- header part ends here.. -->
     <!-- carousel starts -->
-    <?php
-         logoHeader();
-    ?>
+        <?php
+            logoHeader();
+        ?>
     <!-- carousel ends here -->
 
     <!-- main body part -->
@@ -54,9 +53,9 @@
     <hr class="featurette-divider">
     <!-- main body part ends -->
      <!-- footer starts her e -->
-     <?php
-     footer();
-    ?>
+      <?php
+        footer();
+      ?>
     <!-- footer starts here -->
     
     </body>
